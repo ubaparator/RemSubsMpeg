@@ -1,0 +1,6 @@
+{
+  "name": "RemSubsMpegKit",
+  "description": "FFmpeg komut oluşturucu ve Termux entegrasyonu: Kolay dosya seçimi, video sıkıştırma ve hardsub (.ass/.srt) işleme aracı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
